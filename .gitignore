@@ -1,0 +1,114 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Arrays as parameters/Application as a class/out/
+/Topics/Arrays as parameters/Application as a class/out/production/classes/
+/Topics/Arrays as parameters/How to invoke the method/out/
+/Topics/Arrays as parameters/How to invoke the method/out/production/classes/
+/Topics/Arrays as parameters/Theory/out/
+/Topics/Arrays as parameters/Theory/out/production/classes/
+/Topics/Arrays as parameters/What does the code print/out/
+/Topics/Arrays as parameters/What does the code print/out/production/classes/
+/Topics/Combining constants with enum/Currencies/out/
+/Topics/Combining constants with enum/Currencies/out/production/classes/
+/Topics/Combining constants with enum/Days of week/out/
+/Topics/Combining constants with enum/Days of week/out/production/classes/
+/Topics/Combining constants with enum/Iterating over enum values/out/
+/Topics/Combining constants with enum/Iterating over enum values/out/production/classes/
+/Topics/Combining constants with enum/Theory/out/
+/Topics/Combining constants with enum/Theory/out/production/classes/
+/Topics/Declaring methods/Method signature/out/
+/Topics/Declaring methods/Method signature/out/production/classes/
+/Topics/Declaring methods/Sum of numbers in the range/out/
+/Topics/Declaring methods/Sum of numbers in the range/out/production/classes/
+/Topics/Declaring methods/Syntactically correct declarations/out/
+/Topics/Declaring methods/Syntactically correct declarations/out/production/classes/
+/Topics/Declaring methods/The sign of a number/out/
+/Topics/Declaring methods/The sign of a number/out/production/classes/
+/Topics/Declaring methods/Theory/out/
+/Topics/Declaring methods/Theory/out/production/classes/
+/Topics/Functional decomposition/A quadratic equation/out/
+/Topics/Functional decomposition/A quadratic equation/out/production/classes/
+/Topics/Functional decomposition/Math wizardry in your pocket/out/
+/Topics/Functional decomposition/Math wizardry in your pocket/out/production/classes/
+/Topics/Functional decomposition/Method createFullName/out/
+/Topics/Functional decomposition/Method createFullName/out/production/classes/
+/Topics/Functional decomposition/Theory/out/
+/Topics/Functional decomposition/Theory/out/production/classes/
+/Topics/Functional decomposition/Why decompose a program/out/
+/Topics/Functional decomposition/Why decompose a program/out/production/classes/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/
+/Topics/Initializing new instances. Constructor/Account and its owner/out/production/classes/
+/Topics/Initializing new instances. Constructor/Blueprints of the Invisible Craftsmen/out/
+/Topics/Initializing new instances. Constructor/Blueprints of the Invisible Craftsmen/out/production/classes/
+/Topics/Initializing new instances. Constructor/Default constructor/out/
+/Topics/Initializing new instances. Constructor/Default constructor/out/production/classes/
+/Topics/Initializing new instances. Constructor/Theory/out/
+/Topics/Initializing new instances. Constructor/Theory/out/production/classes/
+/Topics/Instance methods/Declare me/out/
+/Topics/Instance methods/Declare me/out/production/classes/
+/Topics/Instance methods/Implementing an instance method to print greeting messages/out/
+/Topics/Instance methods/Implementing an instance method to print greeting messages/out/production/classes/
+/Topics/Instance methods/In a box/out/
+/Topics/Instance methods/In a box/out/production/classes/
+/Topics/Instance methods/Patient needs a doctor/out/
+/Topics/Instance methods/Patient needs a doctor/out/production/classes/
+/Topics/Instance methods/The Robot class/out/
+/Topics/Instance methods/The Robot class/out/production/classes/
+/Topics/Instance methods/Theory/out/
+/Topics/Instance methods/Theory/out/production/classes/
+/Topics/Instance methods/What is it/out/
+/Topics/Instance methods/What is it/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Iterating over arrays/Select loops/out/
+/Topics/Iterating over arrays/Select loops/out/production/classes/
+/Topics/Iterating over arrays/The index of the first max in an array/out/
+/Topics/Iterating over arrays/The index of the first max in an array/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/
+/Topics/Iterating over arrays/Two numbers never occur next to each other/out/production/classes/
+/Topics/Method  main/Print  Hello, Java/out/
+/Topics/Method  main/Print  Hello, Java/out/production/classes/
+/Topics/Method  main/Print  We are robots/out/
+/Topics/Method  main/Print  We are robots/out/production/classes/
+/Topics/Method  main/Running a program without main/out/
+/Topics/Method  main/Running a program without main/out/production/classes/
+/Topics/Method  main/Theory/out/
+/Topics/Method  main/Theory/out/production/classes/
+/Topics/Method  main/Who is the main/out/
+/Topics/Method  main/Who is the main/out/production/classes/
+/Topics/Multiple conditions  switch/Day of the week from an integer/out/
+/Topics/Multiple conditions  switch/Day of the week from an integer/out/production/classes/
+/Topics/Multiple conditions  switch/Direction/out/
+/Topics/Multiple conditions  switch/Direction/out/production/classes/
+/Topics/Multiple conditions  switch/Statements/out/
+/Topics/Multiple conditions  switch/Statements/out/production/classes/
+/Topics/Multiple conditions  switch/Theory/out/
+/Topics/Multiple conditions  switch/Theory/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Sequence of steps to define and access a static member/out/
+/Topics/Static members/Sequence of steps to define and access a static member/out/production/classes/
+/Topics/Static members/Static and instance members/out/
+/Topics/Static members/Static and instance members/out/production/classes/
+/Topics/Static members/Theory/out/
+/Topics/Static members/Theory/out/production/classes/
+/Topics/Static members/Time constants/out/
+/Topics/Static members/Time constants/out/production/classes/
